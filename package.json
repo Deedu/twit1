@@ -1,0 +1,30 @@
+{
+  "name": "twit1",
+  "version": "1.0.0",
+  "description": "Get tweets from fortune 500 CEO's",
+  "main": "bot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Deedu/Twitter-Bot.git"
+  },
+  "keywords": [
+    "twitter",
+    "bot",
+    "ceo",
+    "web",
+    "crawling"
+  ],
+  "author": "David Daugela <daviddaugela@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Deedu/Twitter-Bot/issues"
+  },
+  "homepage": "https://github.com/Deedu/Twitter-Bot#readme",
+  "dependencies": {
+    "unique-random-array": "1.0.0"
+  },
+  "devDependencies": {}
+}
